@@ -1,0 +1,42 @@
+    #energyLabelCartpage {
+        display:block;
+        
+        /* display: inline-block;
+        margin: 3px 0 10px;
+        margin-left: -40px;
+        margin-top: 10px; */
+
+        /* height: 32px; */
+        /* height: 12px; */
+
+        /* height: 19px;
+        font-family: Verdana;
+        color: #fff;
+        text-decoration: none;
+        vertical-align: top; */
+    }
+
+    #leftArrow {
+        float: left;
+        width: 0;
+        border-top: 8px solid transparent;
+        border-bottom: 5.5px solid transparent;
+
+        /* margin-top: 8px; */
+        /* border-top: 16px solid transparent; */
+        /* border-bottom: 16px solid transparent; */
+        /* color: #fff; */
+    }
+
+    #arrowContent {
+        padding-right: 3px;
+        color: #fff; 
+
+        /* font-size: 26px; */
+        /* font-size: 13px;
+        font-weight: bold;
+        padding-left: 10px;
+        padding-right: 10px;
+        line-height: 32px;
+        vertical-align: top;*/
+    }

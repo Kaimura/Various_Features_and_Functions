@@ -1,0 +1,20 @@
+ul.HistoryUl {
+    position: absolute;
+    margin-left: 47%;
+    z-index: 1000;
+    background-color: @creator-mainmenu-l1-bgcolor;
+    list-style: none;
+
+    &:hover li {
+        background-color: @creator-mainmenu-l1-item-hover-bgcolor;
+    }
+
+    li span {
+       background-color: @creator-mainmenu-l1-bgcolor;
+       display: grid;
+    }
+
+    li:hover ~ li {
+        background: none;
+    }
+}
